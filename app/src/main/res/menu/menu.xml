@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnSalvar"
+        android:title="Salvar" />
+    <item
+        android:id="@+id/mnAlterar"
+        android:title="Alterar" />
+    <item
+        android:id="@+id/mnExcluir"
+        android:title="Excluir" />
+    <item
+        android:id="@+id/mnListar"
+        android:title="Listar" />
+    <item
+        android:id="@+id/mnLimpar"
+        android:title="Limpar" />
+    <item
+        android:id="@+id/mnSair"
+        android:title="Sair" />
+</menu>
